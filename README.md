@@ -1,1 +1,1 @@
-# Assignment-6 DOM The Zip and City search API
+# Assignment-6-PartII City Search API
