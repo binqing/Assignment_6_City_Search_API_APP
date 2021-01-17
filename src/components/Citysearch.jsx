@@ -72,7 +72,7 @@ class Citysearch extends React.Component {
   
                     <div>              
                         {this.state.data.map((item, index)=> (
-                            <Zipcode 
+                           <Zipcode 
                             key ={index}
                             city ={item}
                             /> 
